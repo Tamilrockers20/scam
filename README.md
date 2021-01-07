@@ -1,0 +1,23 @@
+# Machine_Learning_Lab
+This will contains lab programs 
+
+-  [Naive Bayesian classifier](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%201)
+-  [K- Nearest Neighbor classification](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%202) 
+-  [Decision Tree classifier](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%203) 
+-  [Simple Linear Regression](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%204) 
+-  [Multiple Linear Regression](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%205)
+-  [Probabilistic modelling using Naive Bayes](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%206)
+-  [Genetic Algorithm for finding weights of given equation](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%207)
+-  [Evolutionary Algorithm for Traveling salesman problem](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%208) 
+-  [Genetic Algorithm with logistic regression for feature selection](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%209) 
+-  [K-means clustering](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2010) 
+-  [Expectation Maximization Algorithm](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2011) 
+-  [Comparing the accuracy of Classification algorithms](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2012)
+-  [Comparison of Feature selection algorithms](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2013)
+-  [Implementation of Single Layer Perceptron](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2014)
+-  [Implementation of Multi layer Perceptron](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2015)
+-  [Implementation of Ensemble Learning Methods](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2016) 
+-  [Forecasting using basic ensembling techniques](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2017) 
+-  [Implementation of Q - Learning agent](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2018) 
+-  [Implementation of Tic-Tac-Toe game using Simple reinforcement learning](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2019) 
+-  [Implementation of SPM Classifier](https://github.com/Ratheshprabakar/Machine_Learning_Lab/tree/master/Experiment%20-%2020) 
